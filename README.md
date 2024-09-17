@@ -11,9 +11,9 @@ This repository contains a comprehensive analysis of the Iris dataset using Line
 Dataset
 The Iris dataset is a classic dataset in machine learning and statistics. It contains measurements of iris flowers from three different species. The dataset includes the following features:
 
-**Sepal length
-Sepal width
-Petal length
+**Sepal length, 
+Sepal width, 
+Petal length, 
 Petal width**
 
 **Objectives**
