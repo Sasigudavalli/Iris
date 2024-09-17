@@ -1,5 +1,6 @@
 # Iris
-Data science using builtin dataset
+Data science using builtin dataset.
+****In this Repositary dataset is given it is a builtin dataset we can import directly through seaborn it consists many datasets Iris is one of it.****
 
 **Iris Dataset Classification with Linear and Logistic Regression**
 
