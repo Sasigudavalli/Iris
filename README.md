@@ -28,9 +28,13 @@ Requirements
 **Make sure you have the following Python libraries installed:**
 
 Pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
 
 **Generates and displays various plots:**
